@@ -14,4 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+### 在iOS端和Android端都能实现全屏播放的视频播放器
 ![](https://github.com/Tomous/flutter_video/blob/main/gif.gif)
